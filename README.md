@@ -4,25 +4,26 @@ Solve at least one problem everyday.
 
 ---
 
-### HackerRank:
-
-https://www.hackerrank.com/suryakantbharti
-
-https://www.hackerrank.com/tejeshagrawal
-
----
-
 ### HackerEarth:
+
+Start Date - 20th January
 
 https://www.hackerearth.com/@suryakant.bharti
 
 https://www.hackerearth.com/@tejesh2
 
-### Data Structures
+#### 1. Basic Programming
 
-#### Easy : 
+---
 
-- [ ] Arrays
-- [ ] Linked List
-- [ ] Stacks
-- [ ] Queues
+### HackerRank:
+
+Start Date - 20th January
+
+https://www.hackerrank.com/suryakantbharti
+
+https://www.hackerrank.com/tejeshagrawal
+
+#### 1. Data Structures [Easy]
+
+---
