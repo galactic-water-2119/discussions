@@ -14,11 +14,13 @@ https://www.hackerearth.com/@tejesh2
 
 #### 1. Basic Programming
 
+#### 2. Data Structures
+
 ---
 
 ### HackerRank:
 
-Start Date - 20th January
+Start Date - TBA
 
 https://www.hackerrank.com/suryakantbharti
 
