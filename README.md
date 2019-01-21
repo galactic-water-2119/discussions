@@ -6,7 +6,7 @@ Solve at least one problem everyday.
 
 ### HackerEarth:
 
-Start Date - 20th January
+Start Date - 19th January
 
 https://www.hackerearth.com/@suryakantbharti
 
