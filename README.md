@@ -8,7 +8,7 @@ Solve at least one problem everyday.
 
 Start Date - 20th January
 
-https://www.hackerearth.com/@suryakant.bharti
+https://www.hackerearth.com/@suryakantbharti
 
 https://www.hackerearth.com/@tejesh2
 
