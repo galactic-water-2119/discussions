@@ -1,10 +1,6 @@
-## Coding Discussions
+### 1. Coding - HackerEarth: {Both}
 
 Solve at least one problem everyday.
-
----
-
-### HackerEarth:
 
 Start Date - 19th January
 
@@ -12,26 +8,24 @@ https://www.hackerearth.com/@suryakantbharti
 
 https://www.hackerearth.com/@tejesh2
 
-STREAKS:
-
-https://www.hackerearth.com/@suryakantbharti/activity/hackerearth/
-
-https://www.hackerearth.com/@tejesh2/activity/hackerearth/
-
 #### 1. Basic Programming
 
 #### 2. Data Structures
 
 ---
 
-### HackerRank:
+### 2. Python - Github Repo: {Teja}
 
-Start Date - TBA
+Add at least one program everyday.
 
-https://www.hackerrank.com/suryakantbharti
+Start Date - 19th January
 
-https://www.hackerrank.com/tejeshagrawal
-
-#### 1. Data Structures [Easy]
+https://github.com/Suryakant-Bharti/python_experiments
 
 ---
+
+### 3. Backend and Cloud: {Both}
+
+Flask, Postgre, REST API, Heroku, Firebase, Postman
+
+21
