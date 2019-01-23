@@ -14,7 +14,7 @@ https://www.hackerearth.com/@tejesh2
 
 ---
 
-### 2. Python - Github Repo: {Teja}
+### 2. Python - Github Repo: {Tejesh}
 
 Add at least one program everyday.
 
