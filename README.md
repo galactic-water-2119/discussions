@@ -33,20 +33,44 @@ Flask, Postgre, REST API, Heroku, Firebase, Postman
 
 
 
+### LONG TERM I - Fundamentals (2019):
 
+#### 1. Language Essentials - Java/Python
+
+#### 2. OOPS - Java/Python
+
+#### 3. Data Structures
 
 ---
 
-### LONG TERM II (2019):
+### LONG TERM II - Development (2019):
 
-#### 1. Design Patterns
+#### 1. Backend - Flask, Heroku, REST Web Service
 
-#### 2. Architecture - MVC, MVP, MVVM
+#### 2. Design Patterns
 
-#### 3. Testing - Unit, UI
+#### 3. Architecture - MVC, MVP, MVVM
 
 #### 4. DevOps - Gitlab
 
-#### 5. Performance - Cpu, Memory, Network, Battery
+---
 
-#### 6. Security - Authenication
+### LONG TERM III - More Depth (2019):
+
+#### 1. Algorithms
+
+#### 2. Databases - SQL, Schema
+
+#### 3. Testing - Unit, UI
+
+#### 4. OOAD - SOLID, UML, ER, DFD (LucidChart)
+
+---
+
+### LONG TERM IV - Android Specific (2019):
+
+#### 1. UI Design - ...
+
+#### 2. Performance - Cpu, Memory, Network, Battery
+
+#### 3. Security - Auth, Proguard
